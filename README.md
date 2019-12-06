@@ -11,4 +11,4 @@
 
 ### Enhancements
 1. I would propose to the Hacker News to give the options to retrieve the Best Stories already ordered.
-2. Another thing to could be done is showing the results as fast as they are returned from Hacker News Api.
+2. Another thing to could be done is showing the results as soon as possible, even it's one by one with the list being increased.
